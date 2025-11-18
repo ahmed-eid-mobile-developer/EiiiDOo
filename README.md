@@ -12,7 +12,6 @@ Let's build something impactful together!
 
 <br></br>
 
-
 <a href="https://wakatime.com/@EiiDoo" target="_blank">
   <img src="https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg" alt="wakatime" />
 </a>
