@@ -1,80 +1,95 @@
-# Hi, I'm Ahmed Eid! 👋
+<h1 align="center">Hi, I'm Ahmed Eid Ibrahim</h1>
 
-I'm a dedicated Mobile Application Developer with a passion for building high-performance, user-focused apps across Android and cross-platform environments. With hands-on experience in native development using Java, Kotlin, and Jetpack Compose, as well as cross-platform frameworks like Flutter, React Native, and Expo, I craft scalable and engaging mobile experiences.
+<h3 align="center">Mobile Application Developer | Flutter & Native Android</h3>
 
-I hold a degree in Science from Tanta University and recently completed an intensive Mobile Application Development program at the Information Technology Institute (ITI). Throughout my career, I’ve worked on various impactful freelance projects, including health apps, e-commerce platforms, weather applications, and utility tools. Each project sharpened my skills in clean architecture, design patterns, and user-centric development.
+<p align="center">
+  Egyptian mobile developer based in Cairo, building production Android and iOS apps with Flutter, Dart, Kotlin, and Java.
+</p>
 
-My toolkit includes technologies such as Room DB, Retrofit, Firebase, Bloc, GetX, GraphQL, RESTful APIs, Supabase, and more. I take pride in writing clean, maintainable code and staying updated with the latest development trends. I'm also committed to principles like SOLID and Clean Code to ensure scalability and performance.
+<p align="center">
+  <a href="mailto:ahmed.eid159753@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmed.eid159753%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-eid-mobile-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Eid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1xQDpfCbvXAkl7lPiNUbGZfb2rv8MRPhn/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20CV-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-I'm always open to new opportunities, collaborations, and innovative challenges that push the boundaries of mobile tech.
+<p align="center">
+  <a href="https://wakatime.com/@EiiDoo">
+    <img src="https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg" alt="WakaTime" />
+  </a>
+</p>
 
-Let's build something impactful together!
+---
 
-<br></br>
+## About Me
 
-<a href="https://wakatime.com/@EiiDoo" target="_blank">
-  <img src="https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg" alt="wakatime" />
-</a>
+- Full-time Mobile Application Developer at Mdarj, focused on Flutter apps for Android and iOS.
+- I build and modernize production mobile apps across Odoo ERP, HR, Islamic education, loan management, attendance, mosque/community, and event-invitation domains.
+- I created a reusable Flutter starter template used as an internal company reference for architecture, reusable widgets, Firebase/FCM, localization, CI/CD, and publishing workflows.
+- I care about clean architecture, readable code, maintainable UI systems, secure release handling, and shipping apps that survive real store-review and production constraints.
+- My native Android background includes Kotlin, Java, Jetpack Compose, MVVM, Room, Retrofit, Hilt, Coroutines, and offline-first app patterns.
 
-![AHmed-Eid's Stats](https://github-readme-stats.vercel.app/api?username=EiiiDOo&theme=graywhitek&show_icons=true&hide_border=true&count_private=true)     
+## What I Work On
 
-## 🧠 Problem Solving Stats
-<!--[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=HackerRank)](https://www.hackerrank.com/your_username)
-[![HackerRank](https://your-image-host.com/hackerrank-badge.png)](https://www.hackerrank.com/your_username)
--->
+- Flutter architecture: Cubit/Bloc, Freezed, GetIt/Injectable, Dio/Retrofit, feature-based modules, reusable widgets, and localization.
+- Firebase and platform services: FCM, local notifications, Firestore, Firebase Storage, APNs setup for iOS push notifications, and secure storage.
+- CI/CD and publishing: Codemagic, GitHub Actions, Android App Tester/Firebase App Distribution, Google Drive APK delivery, TestFlight, Google Play Console, and App Store Connect.
+- App modernization: legacy refactoring, WebView/Odoo integration, runtime permissions, release signing, app stability, and developer documentation.
+- Team workflows: backend contracts, release notes, project standards, onboarding guides, and shared AI-assisted development workflows.
 
-<a href="https://leetcode.com/EiiDoo" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/EiiDoo?theme=light&font=baloo&ext=contest" alt="wakatime" />
-</a>
+## Selected Work
 
-<hr/>
-## 🚀 About Me
+Most of my recent production repositories are private company projects, so this section focuses on scope and outcomes.
 
-- 🔭 ITI graduate Android Track.
-- 🤔 Looking for a jop now.
-- ✍️ Keep learning more about Mobile Development. 
-- 💬[ My Resume](https://drive.google.com/file/d/1xQDpfCbvXAkl7lPiNUbGZfb2rv8MRPhn/view?usp=sharing)
+- **Flutter Template & Internal Standards** - Built a reusable company Flutter template with shared architecture, custom widgets, Firebase/FCM setup, CI/CD workflows, release guides, and secure secrets-management practices.
+- **AL-Manhl** - Rebuilt a legacy Odoo WebView app as a native Flutter shell with session persistence, FCM, local notifications, bilingual UI, offline handling, and runtime permission support for Android and iOS.
+- **Al Qard Al Hasan** - Developed a Flutter loan-management app from scratch with borrower and guarantor roles, multi-step loan requests, attachments, notifications, support chat, installment workflows, and Android/iOS release preparation.
+- **Dares Bonyan** - Enhanced an Islamic education platform for students and teachers, including memorization/revision tracking, listening records, teacher statistics, attendance, exam requests, notifications, and release readiness.
+- **Bonyan HR** - Modernized a legacy Odoo HR app with news, announcements, profile management, document uploads, attendance/leave enhancements, FCM, and app-store publishing work.
+- **Qurrat Ayni** - Started a multi-role mosque/community platform with another developer, covering contributors, mosque managers, contractors, maintenance requests, quotations, donations, tenders, localization, and reusable Flutter modules.
+- **SJC Attendance** - Added features and production fixes to an existing attendance app, prepared release configuration, and published it on Google Play.
 
+## Tech Stack
 
-<!-- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community. -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,git,github,postman,figma,react,typescript,html,css" alt="Tech stack icons" />
+</p>
 
-## My Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter,dart,firebase,html,css,javascript,typescript,react,c,cpp,py,)](https://skillicons.dev)
+**Mobile:** Flutter, Dart, Kotlin, Java, Jetpack Compose, Android SDK, Room, Retrofit, Hilt, Coroutines  
+**State & Architecture:** Cubit, Bloc, Provider, GetX, Freezed, MVVM, Clean Architecture, SOLID  
+**APIs & Data:** REST APIs, Dio, Retrofit, GraphQL, Odoo integration, JSON serialization, offline storage  
+**Firebase:** FCM, Firestore, Firebase Storage, Local Notifications, Firebase App Distribution  
+**Release:** Codemagic, GitHub Actions, TestFlight, Google Play Console, App Store Connect, app signing  
+**Tools:** Git, GitHub, Postman, Android Studio, VS Code, Figma
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EiiiDOo&theme=graywhite&layout=compact)](https://github.com/EiiiDOo)
+## GitHub Activity
 
-## 🌱 Currently Exploring
-  
-  - 🧑🏻‍💻 Mastering Android Developing
-  <!--  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management. -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EiiiDOo&show_icons=true&hide_border=true&theme=graywhite&count_private=true" alt="Ahmed Eid GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiiiDOo&layout=compact&hide_border=true&theme=graywhite" alt="Ahmed Eid top languages" />
+</p>
 
+## Problem Solving
 
-## 📬 Get in Touch
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-eid-6b3414213/)
-&nbsp;
-[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:ahmed.eid159753@gmail.com)
-&nbsp;
+<p align="center">
+  <a href="https://leetcode.com/EiiDoo">
+    <img src="https://leetcard.jacoblin.cool/EiiDoo?theme=light&font=baloo&ext=contest" alt="LeetCode stats" />
+  </a>
+</p>
 
+## Connect
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. ⚡
+- Email: [ahmed.eid159753@gmail.com](mailto:ahmed.eid159753@gmail.com)
+- LinkedIn: [linkedin.com/in/ahmed-eid-mobile-developer](https://www.linkedin.com/in/ahmed-eid-mobile-developer/)
+- GitHub: [github.com/EiiiDOo](https://github.com/EiiiDOo)
 
-<!--
-**EiiiDOo/EiiiDOo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Thanks for visiting. I'm always happy to connect around Flutter, Android, app architecture, and mobile product delivery.
+</p>
