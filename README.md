@@ -70,8 +70,8 @@ Most of my recent production repositories are private company projects, so this 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EiiiDOo&show_icons=true&hide_border=true&theme=graywhite&count_private=true" alt="Ahmed Eid GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiiiDOo&layout=compact&hide_border=true&theme=graywhite" alt="Ahmed Eid top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eiido&show_icons=true&hide_border=true&theme=graywhite&count_private=true" alt="Ahmed Eid GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiido&layout=compact&hide_border=true&theme=graywhite" alt="Ahmed Eid top languages" />
 </p>
 
 ## Problem Solving
